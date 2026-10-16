@@ -1,0 +1,1 @@
+winsupply-okc-logo.svg is the actual Oklahoma City logo from the official branch page. Reserved future photography: hero.webp, store-exterior.webp, counter.webp, tool-rentals.webp. No store photography is fabricated. See main README.

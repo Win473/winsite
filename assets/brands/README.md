@@ -1,0 +1,1 @@
+Original official-source logos are installed. See ../SOURCES.md for provenance. Replace approved assets by keeping filenames or update their image src in index.html. Text fallback cards remain supported.
